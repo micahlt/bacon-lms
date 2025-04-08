@@ -1,12 +1,12 @@
-# React + Vite
+# BaconLMS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fake Learning Management Software for educational purposes
 
-Currently, two official plugins are available:
+## Setting up
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Install [Node.js](https://nodejs.org/) on your computer.
+2. Install [Git](https://git-scm.com/downloads) on your computer.
+3. Open the terminal or PowerShell on your computer, and type `git clone https://github.com/micahlt/bacon-lms` to download this repository's files.
+4. Open the created folder in your editor of choice (I use [VSCode](https://code.visualstudio.com/)).
+5. In your editor terminal, type `npm install` to install this application's dependencies
+6. Once the install completes, type `npm run dev` to start the app.
