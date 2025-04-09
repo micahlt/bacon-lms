@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #ffeee5;
+  --bg-2: #ffcdb2;
+  --text: #242228;
+}
+
+body {
+  font-family: "Commissioner", sans-serif;
+}
